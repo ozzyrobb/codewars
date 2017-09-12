@@ -6,5 +6,6 @@ package com.codewars.kyu7;
 public class DnaStrand {
     public static String makeComplement(String dna) {
 
+        return dna;
     }
 }
